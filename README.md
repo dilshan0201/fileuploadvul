@@ -1,4 +1,4 @@
-# fileuploadvul
+# fileuploadvulerability
 website shows a file upload vulnerability by allowing any file type without validation, insecure storage, and no size limits. These flaws expose the server to risks like remote code execution and DoS attacks. It demonstrates the importance of secure file handling, validation, size limits, and safe storage.
 The sample website demonstrates a **file upload vulnerability**, which occurs due to improper handling and validation of uploaded files. In this example, the PHP script (`upload.php`) accepts file uploads without implementing essential security measures, which exposes the server to potential risks. Here's a detailed explanation of the vulnerabilities present:
 
